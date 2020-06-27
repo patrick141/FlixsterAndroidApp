@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[![Watch the video]]("https://www.youtube.com/embed/l2Axe43DW3U")
+[![Watch video!](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/l2Axe43DW3U)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
