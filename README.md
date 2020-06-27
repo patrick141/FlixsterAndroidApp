@@ -4,7 +4,7 @@ An android app that shows trending movies with trailers.
 
 Flixster is an android app that shows trending movies with trailers. Using the Movies DB and Youtube API, the Flixster app provides user the ability to view trending movies. 
 
-*DISCLAIMER* Some Files did not add on into original commit so I will add them at a later day or in a different repository/branch. 
+*DISCLAIMER* Some files did not add on into original commit so those files will be added on a later day or in a different repository/branch. 
 
 Submitted by: Patrick Amaro Rivera
 
