@@ -21,12 +21,9 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories: "https://youtu.be/Xu_QtBt3rxo"
+Here's a walkthrough of implemented user stories (Click on Screenshot!)
 
 [![Flixster](https://github.com/patrick141/FlixsterAndroidApp/raw/master/flixsterapp.PNG)](https://youtu.be/Xu_QtBt3rxo "Flixster")
-
-## Flixster Screenshot
-<img src="https://github.com/patrick141/FlixsterAndroidApp/raw/master/flixsterapp.PNG" title='ScreenShoot of App' width='' /> 
 
 
 ## Notes
