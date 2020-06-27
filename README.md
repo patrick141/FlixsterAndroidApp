@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l2Axe43DW3U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video]]("https://www.youtube.com/embed/l2Axe43DW3U")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
