@@ -2,7 +2,9 @@
 An android app that shows trending movies with trailers.
 # Project 2 - *Flixster*
 
-Simple TODO App is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+Flixster is an android app that shows trending movies with trailers. Using the Movies DB and Youtube API, the Flixster app provides user the ability to view trending movies. 
+
+*DISCLAIMER* Some Files did not add on into original commit so I will add them at a later day or in a different repository/branch. 
 
 Submitted by: Patrick Amaro Rivera
 
@@ -12,16 +14,20 @@ Time spent: 30 hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can view now playing movies
+* [X] User can view now playing movies.
+* [X] User can watch trailers (if movies have trailer).
+* [X] User has important information about trending movies (ie, popularity, overview, rating, etc.).
 
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: "https://youtu.be/Xu_QtBt3rxo"
 
-[![Watch video!](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/l2Axe43DW3U)
+[![Flixster](https://github.com/patrick141/FlixsterAndroidApp/raw/master/flixsterapp.PNG)](https://youtu.be/Xu_QtBt3rxo "Flixster")
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+## Flixster Screenshot
+<img src="https://github.com/patrick141/FlixsterAndroidApp/raw/master/flixsterapp.PNG" title='ScreenShoot of App' width='' /> 
+
 
 ## Notes
 
